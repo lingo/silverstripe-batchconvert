@@ -44,9 +44,6 @@ class BatchConvertPages extends CMSBatchAction {
 		);
 	}
 
-	function changepagetypes() {
-	}
-
 	/**
 	 * Get the class dropdown used in the CMS to change the class of a page.
 	 * This returns the list of options in the drop as a Map from class name
